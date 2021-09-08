@@ -8,4 +8,4 @@ In order to build a Neural Network, we should follow these six steps:
 5. Implement backward propagation (to get the gradients)
 6. Update parameters (gradient descent)
 
-In this project, planner data in the form of a scatter plot is produced and needs to be classified into two classes. A neural network consisting of one hidden layer is used as the classifier. The Weights matrices are initialized randomly, and bias vectors are initialized to zero values. The non-linear *tanh* function is used as the activation function in the hidden layer.
+In this project, planner data in the form of a scatter plot is produced and needs to be classified into two classes. A neural network consisting of one hidden layer is used as the classifier. The number of examples is equal to 400, and the size of the hidden layer is hard-coded to 4. The Weights matrices are initialized randomly, and bias vectors are initialized to zero values. The non-linear *tanh* function is used as the activation function in the hidden layer.
