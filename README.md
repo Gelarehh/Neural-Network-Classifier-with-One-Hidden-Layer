@@ -1,9 +1,9 @@
 # Neural Network Classifier for Planner Data
-
+Inspired by the human brain's neural network, Artificial Neural Network (ANN) seeks to develop information processing. The ANN helps train the computers (programming) to respond appropriately to events instead of dictating what needs to be done. Each neuron in this network is a processing element and solves different problems along with other processing elements.
 <br/><br/>
 
 <p align="center">
-  <img width="520" height="340" src="https://user-images.githubusercontent.com/66460485/132514356-3142b8f1-9abf-4c0d-879f-b58252ee58d2.gif">
+  <img width="600" src="https://user-images.githubusercontent.com/66460485/132514356-3142b8f1-9abf-4c0d-879f-b58252ee58d2.gif">
 </p>
 
 In order to build a Neural Network, we should follow these six steps:
