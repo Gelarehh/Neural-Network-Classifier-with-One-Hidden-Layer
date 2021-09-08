@@ -1,4 +1,11 @@
 # Neural Network Classifier for Planner Data
+
+<br/><br/>
+
+<p align="center">
+  <img width="520" height="340" src="https://user-images.githubusercontent.com/66460485/132514356-3142b8f1-9abf-4c0d-879f-b58252ee58d2.gif">
+</p>
+
 In order to build a Neural Network, we should follow these six steps:
 
 1. Define the number of input units and the number of hidden units
