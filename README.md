@@ -1,4 +1,4 @@
-# Neural-Network-Classifier-with-One-Hidden-Layer
+# Neural Network Classifier for Planner Data
 In order to build a Neural Network, we should follow these six steps:
 
 1. Define the number of input units and the number of hidden units
