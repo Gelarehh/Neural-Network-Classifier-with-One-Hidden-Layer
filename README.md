@@ -1,4 +1,4 @@
-# Neural Network Classifier for Planner Data
+# Neural Network Classifier with One Hidden Layer for Planner Data
 Inspired by the human brain's neural network, Artificial Neural Network (ANN) seeks to develop information processing. The ANN helps train the computers (programming) to respond appropriately to events instead of dictating what needs to be done. Each neuron in this network is a processing element and solves different problems along with other processing elements.
 <br/><br/>
 
